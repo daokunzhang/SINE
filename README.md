@@ -76,16 +76,16 @@ The options of SINE/SINELarge are as follows:
     -negative <int>
         Number of negative examples; default is 5, common values are 3 - 10
     -alpha <float>
-        Set the starting learning rate; default is 0.025 for skip-gram
+        Set the starting learning rate; default is 0.025
     -samples <int>
-        Set the number of training samples as <int>Million; default is 100
+        Set the number of training samples as <int> Million; default is 100
 
 If you find this project is useful, please cite this paper:
 
 	@inproceedings{zhang2018sine,
-  	title={SINE: Scalable Incomplete Network Embedding},
-  	author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
-  	booktitle={IEEE International Conference on Data Mining},
-  	year={2018},
-  	organization={IEEE}
+  		title={SINE: Scalable Incomplete Network Embedding},
+  		author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
+  		booktitle={IEEE International Conference on Data Mining},
+  		year={2018},
+  		organization={IEEE}
 	}
