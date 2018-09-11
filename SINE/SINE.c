@@ -578,9 +578,9 @@ int main(int argc, char **argv)
         printf("\t-negative <int>\n");
         printf("\t\tNumber of negative examples; default is 5, common values are 3 - 10\n");
         printf("\t-alpha <float>\n");
-        printf("\t\tSet the starting learning rate; default is 0.025 for skip-gram\n");
+        printf("\t\tSet the starting learning rate; default is 0.025\n");
         printf("\t-samples <int>\n");
-        printf("\t\tSet the number of training samples as <int>Million; default is 100\n");
+        printf("\t\tSet the number of training samples as <int> Million; default is 100\n");
         return 0;
     }
     if ((i = ArgPos((char *)"-size", argc, argv)) > 0) layer1_size = atoi(argv[i + 1]);
