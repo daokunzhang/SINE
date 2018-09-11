@@ -83,9 +83,9 @@ The options of SINE/SINELarge are as follows:
 If you find this project is useful, please cite this paper:
 
 	@inproceedings{zhang2018sine,
-  		title={SINE: Scalable Incomplete Network Embedding},
-  		author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
-  		booktitle={IEEE International Conference on Data Mining},
-  		year={2018},
-  		organization={IEEE}
+  	    title={SINE: Scalable Incomplete Network Embedding},
+  	    author={Zhang, Daokun and Yin, Jie and Zhu, Xingquan and Zhang, Chengqi},
+  	    booktitle={IEEE International Conference on Data Mining},
+  	    year={2018},
+  	    organization={IEEE}
 	}
