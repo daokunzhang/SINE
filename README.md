@@ -32,7 +32,7 @@ From the second line, one by one, each user's id, neighbor list and profile feat
 
 Above, "node_id" is the id of current node. "neigh_num" is the number of neighbors of current node, and "neigh_id1, neigh_id2, neigh_id3..." is the neighbor list of current node. "nonzero_feat_num" is the number of observed nonzero feature values of the current node and "nonzero_attribute_id1 nonzero_attribute_val1 nonzero_attribute_id2 nonzero_attribute_val2 ......" is the nonzero feature value list of current node, where "nonzero_attribute_id1" is the id of the observed attribute in which current node take nonzero value and "nonzero_attribute_val1" is the corresponding attribute value.
 
-Taking the "cora.txt" as an example, its content is as follows:
+Taking the "cora.txt" file as an example, its content is as follows:
 
     2708 1433
     0
