@@ -1,4 +1,4 @@
-# SINE
+# SINE: Sclable Incomplete Network Embedding
 
 Code for ICDM-2018 paper "SINE: Sclable Incomplete Network Embedding"
 
