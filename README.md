@@ -22,7 +22,7 @@ In the input file, the first line is the number of nodes ("node_num") and the nu
 
     node_num feat_num
 
-From the second line, one by one, each user's id, neighbor list and profile features are provided. The following is the information for a node:
+From the second line, one by one, each node's id, neighbor list and content features are provided. The following is the information for a node:
 
     node_id
     neigh_num
