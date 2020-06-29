@@ -18,7 +18,7 @@ This project is implemented in two versions:
 
 The format of the input network is as following:
 
-In the input file, the first line is the number of nodes ("node_num") and the number of node content attributes ("feat_num") seprated by whitespace:
+In the input file, the first line is the number of nodes ("node_num") and the number of node content attributes ("feat_num") separated by whitespace:
 
     node_num feat_num
 
